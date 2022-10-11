@@ -1,2 +1,2 @@
-# Cousre2
-this is my  final assignment for course 2
+# About This Repository :
+In this repository i have tackled diffrent data science and machine learning projects 
