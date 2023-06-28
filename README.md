@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Projects
 
-Welcome to the Data Science and Machine Learning Projects repository! This repository is a comprehensive collection of diverse projects that showcase the exciting applications of data science, machine learning, and artificial intelligence. It serves as a valuable resource for students, practitioners, and enthusiasts who are interested in exploring and gaining insights into these rapidly evolving fields.
+Welcome to the Data Science and Machine Learning Projects repository! This repository is a comprehensive collection of diverse projects that showcase the exciting applications of data science, machine learning, and artificial intelligence. It serves as a valuable resource for students, practitioners and enthusiasts who are interested in exploring and gaining insights into these rapidly evolving fields.
 
 ## Introduction
 
